@@ -117,8 +117,8 @@ const PlaceDetails = ({ place, isLoggedIn }) => {
   return (
     <Card elevation={6} className={classes.root}>
       <CardMedia
-        //  style={{ height: '450' }}
-        //  image={place.photo && place.photo.images && place.photo.images.medium ?place.photo.images.medium.url : " https://media-cdn.tripadvisor.com/media/photo-s/0b/a1/47/28/fish-chips.jpg"}
+          style={{ height: '450' }}
+          image={place.photo && place.photo.images && place.photo.images.medium ?place.photo.images.medium.url : " https://media-cdn.tripadvisor.com/media/photo-s/0b/a1/47/28/fish-chips.jpg"}
         title={place.name}
       />
 
