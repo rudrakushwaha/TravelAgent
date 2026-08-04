@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 🌍 Travel Advisor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack travel planning web application that helps users discover **restaurants, hotels, and tourist attractions** based on their location. The application combines real-time travel data, interactive maps, and AI-powered assistance to make trip planning easier and more personalized.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- 📍 Discover nearby restaurants, hotels, and attractions
+- 🗺️ Interactive Google Maps integration
+- 🔍 Real-time location-based search and filtering
+- ⭐ View ratings, reviews, and place details
+- 🔐 Secure user authentication
+- 🤖 AI travel assistant using Google Gemini API
+- 📱 Responsive and modern user interface
 
-### `npm start`
+## 🛠️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Backend
+- Node.js
+- Express.js
 
-### `npm test`
+### Database
+- MongoDB
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### APIs & Services
+- Google Maps API
+- Travel Advisor API (RapidAPI)
+- Google Gemini API
 
-### `npm run build`
+### Authentication
+- JWT Authentication
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Application Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Authentication
+<img width="1892" height="863" alt="image" src="https://github.com/user-attachments/assets/e0ba245d-b8e4-4200-9cff-14978abd82c5" />
+<img width="1883" height="862" alt="image" src="https://github.com/user-attachments/assets/b855f46a-6f01-4c8e-819c-85cc6a05da2a" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Home
+<img width="1885" height="871" alt="image" src="https://github.com/user-attachments/assets/e9335e1b-9da1-4bab-a218-a0d0110b0fa0" />
 
-### `npm run eject`
+### AI Travel Assistant
+<img width="577" height="872" alt="image" src="https://github.com/user-attachments/assets/9a3c31e1-8c50-4fec-9cdd-c9c5ce5bce8e" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Project Highlights
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Built a complete MERN stack application from scratch.
+- Integrated multiple third-party APIs for real-time travel information.
+- Implemented JWT-based authentication for secure user login.
+- Developed an AI travel assistant using Google Gemini API.
+- Designed a responsive and user-friendly interface.
+- Applied REST API integration and asynchronous data fetching for seamless user experience.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💡 Future Improvements
 
-## Learn More
+- Personalized travel itinerary generation
+- Hotel and flight booking integration
+- Weather forecast integration
+- Favorite destinations and trip history
+- Multi-language support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
